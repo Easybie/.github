@@ -14,20 +14,18 @@ free to use.
 ### The decisions
 
 Most of what makes a social platform unpleasant was a decision somebody made
-on purpose: a feed reordered to keep you there, a badge with a price on it, a
-report button that doubles as a weapon, a page that loads a dozen trackers
-before you have read a word. Every one of those is a fork in the road. These
-are the ways Easybie went, and each is checkable inside the product.
+on purpose. Every one of those is a fork in the road. These are the ways
+Easybie went, and each is checkable inside the product.
 
-| | |
+| The usual | Easybie |
 |---|---|
-| **No algorithmic feed** | Posts arrive in the order they were written. |
-| **No advertising** | Free, with no paid tier, and nothing sold about you. |
-| **No third-party tracking** | Nothing loads before you have read a word. |
-| **Verification that cannot be bought** | Every badge is granted by hand. Somebody checks something and writes down what they checked. |
-| **No automatic removals** | Nothing is removed automatically, and nothing is hidden for having been reported a certain number of times. Each report is read by a person. |
-| **No video hosting** | Shared video is embedded from elsewhere, and loads nothing until somebody presses play. |
-| **Every outbound link is nofollow** | No exceptions worth hiding — the short list of them is published. |
+| A feed reordered to keep you there | Posts arrive in the order they were written. |
+| A badge with a price on it | Every badge is granted by hand. Somebody checks something and writes down what they checked. |
+| A report button that doubles as a weapon | Nothing is removed automatically, and nothing is hidden for having been reported a certain number of times. Each report is read by a person. |
+| A page that loads a dozen trackers before you have read a word | No third-party tracking. Nothing loads before you have read a word. |
+| Your attention, sold | Free, with no paid tier, no advertising, and nothing sold about you. |
+| Video hosted, and playing before you asked | Shared video is embedded from elsewhere, and loads nothing until somebody presses play. |
+| Outbound links that pass your readers' authority on | Every outbound link is nofollow. The short list of exceptions is published. |
 
 ### What is in it
 
@@ -51,8 +49,8 @@ about a minute. If something here is not true of Easybie, that is a bug, and
 the fastest way to report it is the help inside the product rather than an
 address on a page.
 
-Easybie's own source is not public, which is why this organisation has no
-repositories in it yet.
+Easybie's own source is not public. This repository holds the page you are
+reading, and nothing else.
 
 ---
 
